@@ -1,7 +1,7 @@
 name: Marc-Andre Seguin
 favicon: null
-layout_spectrum: 0.13922610157169402
-typography_spectrum: 0.2551652661059052
+layout_spectrum: 0.36059
+typography_spectrum: 0.66682
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.5312940424773842
-  lightness: 0.16004057764075696
+    - '#ffffff'
+    - '#700018'
+    - '#c57b00'
+    - '#d49d4e'
+    - '#a76571'
+  brandStrength: 0.5625
+  lightness: 0.8125
   saturation: 0.45270482799969614
   rhythmicContrast: 0.19067921210080385
 purpose: []
